@@ -1,0 +1,6 @@
+{
+  "name": "TempMail Plus - Disposable Temporary Email",
+  "description": "Fast, secure, and disposable temporary email service powered by Mail.tm. Generate temporary email addresses, receive real-time verification codes, and protect your privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
